@@ -18,7 +18,7 @@ namespace MSTestLogging.UnitTest
         }
 
         [TestMethod]
-        public void CalculatorGetDivisionTest()
+        public void CalculatorDivisionTest()
         {
             var calculator = new Calculator();
 
